@@ -1,0 +1,6 @@
+{
+  "name": "Agile Architecture Tips",
+  "tagline": "Companion Website for the Agile Architecture book",
+  "body": "### Welcome to Agile Architecture Tips\r\n\r\nThis is a companion website for the [Agile Architecture](https://leanpub.com/agileArchitecture/) book.\r\n\r\n### Technology Details over time\r\n\r\nWhile the book is expected to be useful for several years, detailed descriptions of specific technologies like platforms, tools, languages and frameworks will surely change over time. One of the main goals of this website is to provide more detailed descriptions which can be linked from the book, but can also be updated as things evolve.\r\n\r\n### Alternative Techniques\r\n\r\nAfter the book reach its final stage (at least for a given edition), new ideas and techniques will surely come to mind and become important, so this website will provide extensions to the book chapters with some of these features.\r\n\r\n### Open Debate\r\n\r\nThe final goal of this website is to provide space for feedback and discussion about the book, also linked to specific sections and chapters.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
